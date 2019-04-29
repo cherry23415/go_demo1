@@ -1,0 +1,16 @@
+{
+  "isDevelopment": true,
+  "server": {
+    "port": "8082",
+    "db": {
+      "dialect": "mysql",
+      "host": "127.0.0.1",
+      "port": 3306,
+      "user": "root",
+      "password": "123456",
+      "database": "go_demo1",
+      "maxIdle": 20,
+      "maxOpen": 20
+    }
+  }
+}
