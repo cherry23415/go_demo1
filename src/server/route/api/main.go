@@ -13,4 +13,7 @@ func Api() {
 	api := iris.Party("/demo1")
 	api.Get("/hello", demo.HelloWorld)
 	api.Post("/addUser", demo.AddUser)
+	api.Post("/updateUser", demo.UpdateUser)
+	api.Get("/allUser", demo.AllUser)
+	api.Get("/getUserById", demo.GetUserById)
 }
