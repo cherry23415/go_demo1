@@ -11,5 +11,6 @@ func Api() {
 		demo = &controller.UserController{}
 	)
 	api := iris.Party("/demo1")
-	api.Post("/hello", demo.HelloWorld)
+	api.Get("/hello", demo.HelloWorld)
+	api.Post("/addUser", demo.AddUser)
 }
