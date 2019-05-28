@@ -1,8 +1,8 @@
 package main
 
 import (
-	"go_demo1/src/server/common"
-	"go_demo1/src/server/initialize"
+	"go_gorm_demo/src/server/common"
+	"go_gorm_demo/src/server/initialize"
 )
 
 func main() {

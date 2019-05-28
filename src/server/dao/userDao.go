@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"github.com/bitly/go-simplejson"
 	"github.com/go-errors/errors"
-	"go_demo1/src/server/common"
+	"go_gorm_demo/src/server/common"
 )
 
 type UserDao struct {

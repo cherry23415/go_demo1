@@ -2,7 +2,7 @@ package service
 
 import (
 	"github.com/bitly/go-simplejson"
-	"go_demo1/src/server/dao"
+	"go_gorm_demo/src/server/dao"
 )
 
 type UserService struct {

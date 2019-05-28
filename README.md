@@ -1,4 +1,4 @@
-# go_demo1
+# go_gorm_demo
 
 ## 开发及发布
 ### 工具
@@ -9,7 +9,7 @@
 
 #### 项目说明
 
-    1）项目路径应该在 本机go的src目录下 {gopath}/src/go_demo1, 
+    1）项目路径应该在 本机go的src目录下 {gopath}/src/go_gorm_demo, 
     如果项目路径正确的路径,会导致不让访问第三方包资源
     2）sql目录为示例脚本
 

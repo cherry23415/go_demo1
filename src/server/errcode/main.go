@@ -2,7 +2,7 @@ package errcode
 
 import (
 	"errors"
-	"go_demo1/src/server/entity"
+	"go_gorm_demo/src/server/entity"
 )
 
 var (

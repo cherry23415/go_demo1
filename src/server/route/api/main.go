@@ -1,7 +1,7 @@
 package api
 
 import (
-	"go_demo1/src/server/controller"
+	"go_gorm_demo/src/server/controller"
 	"gopkg.in/kataras/iris.v5"
 )
 

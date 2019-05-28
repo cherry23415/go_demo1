@@ -2,7 +2,7 @@ package initialize
 
 import (
 	"github.com/spf13/viper"
-	"go_demo1/src/server/route/api"
+	"go_gorm_demo/src/server/route/api"
 	"gopkg.in/kataras/iris.v5"
 )
 

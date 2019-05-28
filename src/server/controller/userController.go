@@ -1,8 +1,8 @@
 package controller
 
 import (
-	"go_demo1/src/server/errcode"
-	"go_demo1/src/server/service"
+	"go_gorm_demo/src/server/errcode"
+	"go_gorm_demo/src/server/service"
 	"gopkg.in/kataras/iris.v5"
 )
 

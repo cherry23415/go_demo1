@@ -3,7 +3,7 @@ package initialize
 import (
 	"fmt"
 	"github.com/go-errors/errors"
-	"go_demo1/src/server/errcode"
+	"go_gorm_demo/src/server/errcode"
 	"gopkg.in/kataras/iris.v5"
 )
 
